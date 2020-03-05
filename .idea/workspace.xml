@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b33ee3aa-8352-4936-bb23-5bc8af2945bd" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TplPqVCUACxslihzTHKxBE8tPE" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/ad-eureka/src/main/java/com.hjh.ad" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EurekaApplication">
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ad-eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hjh.ad.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hjh.ad.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="adgateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hjh.ad.ZuulGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.EurekaApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b33ee3aa-8352-4936-bb23-5bc8af2945bd" name="Default Changelist" comment="" />
+      <created>1574164896691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574164896691</updated>
+      <workItem from="1574164900051" duration="5341000" />
+      <workItem from="1574244520182" duration="1800000" />
+      <workItem from="1574300452701" duration="3356000" />
+      <workItem from="1574329123883" duration="621000" />
+      <workItem from="1574330153041" duration="6305000" />
+      <workItem from="1574776196824" duration="44000" />
+      <workItem from="1574776254993" duration="15203000" />
+      <workItem from="1575646927856" duration="4217000" />
+      <workItem from="1575673358671" duration="1723000" />
+      <workItem from="1575675197264" duration="3635000" />
+      <workItem from="1576930864758" duration="3002000" />
+      <workItem from="1577157685519" duration="1706000" />
+      <workItem from="1577798937731" duration="494000" />
+      <workItem from="1578107636182" duration="7000" />
+      <workItem from="1578107941537" duration="14000" />
+      <workItem from="1578108211833" duration="1000" />
+      <workItem from="1578108420478" duration="2000" />
+      <workItem from="1578109088288" duration="56000" />
+      <workItem from="1578109339617" duration="126000" />
+      <workItem from="1578127641476" duration="1113000" />
+      <workItem from="1578304458036" duration="559000" />
+      <workItem from="1578329988944" duration="47000" />
+      <workItem from="1578380197455" duration="103000" />
+      <workItem from="1578566523852" duration="4165000" />
+      <workItem from="1579180713483" duration="1487000" />
+      <workItem from="1580786377166" duration="596000" />
+      <workItem from="1580903190359" duration="121000" />
+      <workItem from="1583418135056" duration="158000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
